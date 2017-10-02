@@ -9,7 +9,7 @@ Credits:
 
 	Design:
 		@xypnox
-ß
+
 	Name:
 		Bharat Parmar
 
